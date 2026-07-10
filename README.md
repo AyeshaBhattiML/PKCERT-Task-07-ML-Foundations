@@ -63,7 +63,6 @@ pip install pandas numpy matplotlib scikit-learn
 - `california_housing.csv`
 - `Report.pdf`
 - `README.md`
-- `screenshots/`
 
 ---
 
